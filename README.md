@@ -1,3 +1,1 @@
-# Gitter Developer Docs
-
-For more info check: https://developer.gitter.im
+Project moved to https://gitlab.com/gitlab-org/gitter/docs
